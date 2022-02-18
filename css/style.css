@@ -189,7 +189,7 @@ section {
 }
 .hero::before {
   content: "";
-  background: url(/img/lower-mv-decoration_sp.png) center/cover no-repeat;
+  background: url(img/lower-mv-decoration_sp.png) center/cover no-repeat;
   bottom: 0;
   height: 250px;
   left: 0;
@@ -200,7 +200,7 @@ section {
 }
 @media (min-width: 768px) {
   .hero::before {
-    background: url(/img/lower-mv-decoration_pc.png) center/cover no-repeat;
+    background: url(img/lower-mv-decoration_pc.png) center/cover no-repeat;
     width: 365px;
   }
 }
@@ -444,7 +444,7 @@ section {
 
 .footer-download {
   width: 100%;
-  background: url(/img/img-download.png) no-repeat center/cover;
+  background: url(img/img-download.png) no-repeat center/cover;
   padding: 45px 40px 26px;
 }
 @media (min-width: 768px) {
@@ -456,7 +456,7 @@ section {
 
 .footer-contact {
   width: 100%;
-  background: url(/img/img-contact.png) no-repeat center/cover;
+  background: url(img/img-contact.png) no-repeat center/cover;
   padding: 45px 40px 26px;
 }
 @media (min-width: 768px) {
